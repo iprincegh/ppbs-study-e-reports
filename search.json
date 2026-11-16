@@ -1,0 +1,492 @@
+[
+  {
+    "objectID": "vote.html",
+    "href": "vote.html",
+    "title": "Vote intention",
+    "section": "",
+    "text": "Vote intention is the answer to “Which party would you vote for if the election for the German Bundestag were next Sunday?” It records stated intention."
+  },
+  {
+    "objectID": "vote.html#categories-and-coding",
+    "href": "vote.html#categories-and-coding",
+    "title": "Vote intention",
+    "section": "1 Categories and coding",
+    "text": "1 Categories and coding\n\n\n\nResponse categories. The extract stores German labels.\n\n\nExtract label\nCategory\nGroup\nWaves\n\n\n\n\nCDU/CSU\nCDU/CSU\nparty\n1, 2, 3, 4, 5\n\n\nSPD\nSPD\nparty\n1, 2, 3, 4, 5\n\n\nFDP\nFDP\nparty\n1, 2, 3, 4, 5\n\n\nBündnis 90/Die Grünen\nGreens\nparty\n1, 2, 3, 4, 5\n\n\nDie Linke\nLeft\nparty\n1, 2, 3, 4, 5\n\n\nAfD\nAfD\nparty\n1, 2, 3, 4, 5\n\n\nAndere Partei\nOther party\nparty\n1, 2, 3, 4, 5\n\n\nIch würde nicht wählen\nWould not vote\nwould not vote\n2, 3, 4, 5\n\n\nIch weiß es noch nicht\nDon’t know yet\nundecided\n2, 3, 4, 5\n\n\n\n\n\n“Would not vote” and “don’t know yet” were offered only from wave 2. Wave 1 has 66 blank answers against 8 to 12 in later waves, which suggests that some wave 1 respondents without a party left the question blank. I report blanks as “No answer” and do not impute them (decision log D13)."
+  },
+  {
+    "objectID": "vote.html#frequencies-by-wave",
+    "href": "vote.html#frequencies-by-wave",
+    "title": "Vote intention",
+    "section": "2 Frequencies by wave",
+    "text": "2 Frequencies by wave\n\n\n\nRespondents per category and wave, n (%). Per-wave N = 500.\n\n\n\n\n\n\n\n\n\n\nCategory\nWave 1\nWave 2\nWave 3\nWave 4\nWave 5\n\n\n\n\nCDU/CSU\n86 (17.2%)\n90 (18.0%)\n99 (19.8%)\n95 (19.0%)\n109 (21.8%)\n\n\nSPD\n91 (18.2%)\n65 (13.0%)\n67 (13.4%)\n52 (10.4%)\n49 (9.8%)\n\n\nFDP\n42 (8.4%)\n30 (6.0%)\n29 (5.8%)\n28 (5.6%)\n23 (4.6%)\n\n\nGreens\n98 (19.6%)\n97 (19.4%)\n89 (17.8%)\n76 (15.2%)\n73 (14.6%)\n\n\nLeft\n36 (7.2%)\n36 (7.2%)\n33 (6.6%)\n31 (6.2%)\n29 (5.8%)\n\n\nAfD\n50 (10.0%)\n53 (10.6%)\n55 (11.0%)\n82 (16.4%)\n70 (14.0%)\n\n\nOther party\n31 (6.2%)\n19 (3.8%)\n25 (5.0%)\n28 (5.6%)\n39 (7.8%)\n\n\nNo answer\n66 (13.2%)\n11 (2.2%)\n&lt; 10\n12 (2.4%)\n12 (2.4%)\n\n\nWould not vote\nnot offered\n23 (4.6%)\n25 (5.0%)\n17 (3.4%)\n11 (2.2%)\n\n\nDon’t know yet\nnot offered\n76 (15.2%)\n70 (14.0%)\n79 (15.8%)\n85 (17.0%)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nShares include respondents who gave no answer in the denominator. Categories with fewer than 10 respondents in a wave are not shown."
+  },
+  {
+    "objectID": "vote.html#switching-between-waves",
+    "href": "vote.html#switching-between-waves",
+    "title": "Vote intention",
+    "section": "3 Switching between waves",
+    "text": "3 Switching between waves\n\n\n\nMovement between adjacent waves among respondents answering in both waves, n (%).\n\n\n\n\n\n\n\n\n\nMovement\n1 to 2 (N = 432)\n2 to 3 (N = 485)\n3 to 4 (N = 484)\n4 to 5 (N = 481)\n\n\n\n\nsame party\n329 (76.2%)\n330 (68.0%)\n301 (62.2%)\n316 (65.7%)\n\n\ndifferent party\n49 (11.3%)\n37 (7.6%)\n61 (12.6%)\n47 (9.8%)\n\n\nparty to undecided or nonvote\n54 (12.5%)\n21 (4.3%)\n32 (6.6%)\n25 (5.2%)\n\n\nundecided or nonvote to party\nnot possible\n27 (5.6%)\n27 (5.6%)\n27 (5.6%)\n\n\nundecided or nonvote in both\nnot possible\n70 (14.4%)\n63 (13.0%)\n66 (13.7%)\n\n\n\n\n\nBetween 62% and 76% of respondents answering in both waves keep their party. The wave 1 to 2 column is not comparable with the others: wave 1 offered no undecided or nonvote option, so movement out of those categories cannot start in wave 1."
+  },
+  {
+    "objectID": "vote.html#constructs-by-vote-intention",
+    "href": "vote.html#constructs-by-vote-intention",
+    "title": "Vote intention",
+    "section": "4 Constructs by vote intention",
+    "text": "4 Constructs by vote intention\n\n\n\n\n\n\n\n\n\nConstruct means by vote intention in wave 5. Analytic N = 488."
+  },
+  {
+    "objectID": "vote.html#model-constructs-and-vote-intention",
+    "href": "vote.html#model-constructs-and-vote-intention",
+    "title": "Vote intention",
+    "section": "5 Model: constructs and vote intention",
+    "text": "5 Model: constructs and vote intention\nA multinomial logit relates vote intention in wave 5 to the five construct scores measured in the same wave, standardized; no later measure enters as a predictor. “Would not vote” (11 respondents) is merged with “don’t know yet” for estimation, as it is too small for its own equation. This merge, the construct scores and the rule of excluding no respondent are provisional (decision log D4, D6, D22, D27). N = 488; categories: CDU/CSU 109, SPD 49, FDP 23, Greens 73, Left 29, AfD 70, Other party 39, Undecided or would not vote 96.\n\n\n\n\n\n\n\n\n\nPredicted probability of each intention when one construct is 1 SD below or above its mean and the other four are at their means. The constructs correlate with each other, so each panel shows an association with the other four held constant. Confidence intervals use the delta method."
+  },
+  {
+    "objectID": "vote.html#measurement-notes",
+    "href": "vote.html#measurement-notes",
+    "title": "Vote intention",
+    "section": "6 Measurement notes",
+    "text": "6 Measurement notes\n\nThe open-text answers behind “Other party” are not in the extract, so that category cannot be split.\nAll five constructs were measured in waves 4 and 5; I model wave 5, the later one."
+  },
+  {
+    "objectID": "vote.html#reproducing-this-report",
+    "href": "vote.html#reproducing-this-report",
+    "title": "Vote intention",
+    "section": "7 Reproducing this report",
+    "text": "7 Reproducing this report\nRebuild with Rscript run.R. Package versions are pinned in renv.lock, and every coding decision is in the decision log."
+  },
+  {
+    "objectID": "antisci.html",
+    "href": "antisci.html",
+    "title": "Anti-scientific attitudes",
+    "section": "",
+    "text": "The anti-scientific attitudes score (antisci) was measured in waves 1, 2, 3, 4 and 5. Scored N per wave: 500, 500, 500, 500, 500. No respondent is excluded, a provisional rule (decision log D22)."
+  },
+  {
+    "objectID": "antisci.html#study-and-sample",
+    "href": "antisci.html#study-and-sample",
+    "title": "Anti-scientific attitudes",
+    "section": "",
+    "text": "The anti-scientific attitudes score (antisci) was measured in waves 1, 2, 3, 4 and 5. Scored N per wave: 500, 500, 500, 500, 500. No respondent is excluded, a provisional rule (decision log D22)."
+  },
+  {
+    "objectID": "antisci.html#items-and-coding",
+    "href": "antisci.html#items-and-coding",
+    "title": "Anti-scientific attitudes",
+    "section": "2 Items and coding",
+    "text": "2 Items and coding\n\n\n\nItems (guide reference: Azevedo and Jost (2021), translated by the authors). Response scale: 1 = strongly disagree, 4 = neither, 7 = strongly agree. Non-answer codes observed: 0.\n\n\n\n\n\n\n\n\n\nItem\nWording\nFacet\nWaves\nDirection\n\n\n\n\nantisci_1\nWe believe too often in science, and not enough in faith and feelings.\n\n1, 2, 3, 4, 5\n\n\n\nantisci_2\nWhen it comes to the really important questions, scientific facts don’t help very much.\n\n1, 2, 3, 4, 5\n\n\n\nantisci_3\nI’d rather put my trust in the wisdom of ordinary people than the opinions of experts and intellectuals.\n\n1, 2, 3, 4, 5\n\n\n\nantisci_4\nOrdinary people can really use the help of experts to understand complicated things like science and health.\n\n1, 2, 3, 4, 5\nreverse-keyed; already reversed in the extract, used as stored\n\n\n\n\n\nScore. antisci is the mean of its 4 items in the scored direction (higher = more anti-scientific attitudes), computed when at least 3 are valid. Scoring rules and names are provisional until the lead signs off (decision log D4, D21, D6).\n\n\n\nItem answers by wave and type (respondents x items).\n\n\nWave\nValid\nBlank\nNon-answer code\nNot asked\n\n\n\n\n1\n2000\n0\n0\n0\n\n\n2\n2000\n0\n0\n0\n\n\n3\n2000\n0\n0\n0\n\n\n4\n2000\n0\n0\n0\n\n\n5\n2000\n0\n0\n0"
+  },
+  {
+    "objectID": "antisci.html#distributions",
+    "href": "antisci.html#distributions",
+    "title": "Anti-scientific attitudes",
+    "section": "3 Distributions",
+    "text": "3 Distributions\n\n\n\n\n\n\n\n\n\nResponse shares per item in wave 1, in the scored direction (1 = lowest, 7 = highest anti-scientific attitudes). For a reverse-keyed item, 7 means strong disagreement with its wording. Analytic N = 500.\n\n\n\nItem descriptives, wave 1, in the scored direction.\n\n\nItem\nN\nMean\nSD\nRange\nSE\n\n\n\n\nantisci_1\n500\n3.17\n1.61\n1-7\n0.07\n\n\nantisci_2\n500\n3.02\n1.57\n1-7\n0.07\n\n\nantisci_3\n500\n3.17\n1.55\n1-7\n0.07\n\n\nantisci_4 (reverse-keyed)\n500\n2.75\n1.20\n1-7\n0.05\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nScore distribution by wave (smoothed density; individual values are not shown). Analytic N = 500."
+  },
+  {
+    "objectID": "antisci.html#psychometrics",
+    "href": "antisci.html#psychometrics",
+    "title": "Anti-scientific attitudes",
+    "section": "4 Psychometrics",
+    "text": "4 Psychometrics\n\n\n\nReliability by wave. Omega from a one-factor CFA.\n\n\n\n\n\n\n\n\n\n\nWave\nN\nItems\nCronbach’s alpha\nOmega total\nItem-rest r, family items (range)\n\n\n\n\n1\n500\n4\n0.78\n0.81\n0.41 to 0.68\n\n\n2\n500\n4\n0.77\n0.79\n0.39 to 0.65\n\n\n3\n500\n4\n0.78\n0.80\n0.38 to 0.66\n\n\n4\n500\n4\n0.79\n0.82\n0.33 to 0.70\n\n\n5\n500\n4\n0.80\n0.82\n0.46 to 0.70"
+  },
+  {
+    "objectID": "antisci.html#sociodemographic-patterns",
+    "href": "antisci.html#sociodemographic-patterns",
+    "title": "Anti-scientific attitudes",
+    "section": "5 Sociodemographic patterns",
+    "text": "5 Sociodemographic patterns\n\n\n\n\n\n\n\n\n\nMeans in wave 1. Groups with fewer than 10 respondents are not shown (another gender). Income bands and age groups are display groupings; respondents with blank income are omitted from that panel. Analytic N = 500."
+  },
+  {
+    "objectID": "antisci.html#political-and-psychological-correlates",
+    "href": "antisci.html#political-and-psychological-correlates",
+    "title": "Anti-scientific attitudes",
+    "section": "6 Political and psychological correlates",
+    "text": "6 Political and psychological correlates\n\n\n\nPearson correlations with anti-scientific attitudes in wave 1.\n\n\nVariable\nN\nr [95% CI]\n\n\n\n\nLeft-right self-placement\n487\n0.26 [0.17, 0.34]\n\n\nRight-wing authoritarianism (KSA-3)\n500\n0.24 [0.16, 0.32]\n\n\nNationalism (two-item score)\n500\n0.15 [0.07, 0.24]\n\n\nConspiracy beliefs\n500\n0.55 [0.49, 0.61]"
+  },
+  {
+    "objectID": "antisci.html#adjusted-model",
+    "href": "antisci.html#adjusted-model",
+    "title": "Anti-scientific attitudes",
+    "section": "7 Adjusted model",
+    "text": "7 Adjusted model\n\n\n\nOLS of anti-scientific attitudes on demographics and left-right self-placement, wave 1. Outcome and numeric predictors in SD units, so group terms are differences in outcome SDs. R² = 0.12. N = 453.\n\n\n\n\n\n\nTerm\nBeta [95% CI]\n\n\n\n\nFemale (vs male)\n0.04 [-0.13, 0.22]\n\n\nAge\n-0.08 [-0.17, 0.01]\n\n\nEntrance qualification (vs none)\n-0.02 [-0.24, 0.19]\n\n\nUniversity degree (vs no entrance qualification)\n-0.45 [-0.67, -0.22]\n\n\nHousehold income band\n-0.04 [-0.13, 0.06]\n\n\nEast (vs West)\n0.26 [0.05, 0.47]\n\n\nBerlin (vs West)\n0.06 [-0.30, 0.42]\n\n\nLeft-right self-placement (right = high)\n0.25 [0.16, 0.34]\n\n\n\n\n\nThe model describes associations in this sample. Education groups are provisional (decision log D26), and “another gender” is excluded from the model as too small to estimate."
+  },
+  {
+    "objectID": "antisci.html#change-over-time",
+    "href": "antisci.html#change-over-time",
+    "title": "Anti-scientific attitudes",
+    "section": "8 Change over time",
+    "text": "8 Change over time\n\n\n\n\n\n\n\n\n\nWave means. Analytic N = 500. Self-rated attention subset: N = 480/493/487/487/488. The extract has no instructed-response attention flags, so this subset is a provisional robustness check (Q3).\n\n\n\nMean change from wave 1, random-intercept model (lme4). 500 respondents, 2500 observations.\n\n\nContrast\nChange [95% CI]\n\n\n\n\nwave 2 vs wave 1\n0.08 [0.00, 0.16]\n\n\nwave 3 vs wave 1\n0.04 [-0.04, 0.12]\n\n\nwave 4 vs wave 1\n0.05 [-0.02, 0.13]\n\n\nwave 5 vs wave 1\n0.04 [-0.04, 0.12]\n\n\n\n\n\n\n\n\nCheck of the change estimates with a Bayesian random-intercept model (brms, Stan; 4 chains; prior normal(0, 1) on each contrast).\n\n\n\n\n\n\n\n\n\nContrast\nlme4 [95% CI]\nbrms [95% CrI]\nR-hat\nBulk ESS\n\n\n\n\nwave 2 vs wave 1\n0.08 [0.00, 0.16]\n0.08 [0.00, 0.16]\n1.00\n2919\n\n\nwave 3 vs wave 1\n0.04 [-0.04, 0.12]\n0.04 [-0.04, 0.12]\n1.00\n3118\n\n\nwave 4 vs wave 1\n0.05 [-0.02, 0.13]\n0.05 [-0.02, 0.13]\n1.00\n2495\n\n\nwave 5 vs wave 1\n0.04 [-0.04, 0.12]\n0.04 [-0.04, 0.12]\n1.00\n3100\n\n\n\n\n\nThe two methods agree: the largest difference between estimates is &lt; 0.001 scale points, and the largest R-hat is 1.002.\n\n\n\nRank-order stability: Pearson correlation of scores between waves, adjacent and longer intervals.\n\n\nWaves\nLag\nN\nr [95% CI]\nBalanced panel r\n\n\n\n\n1 to 2\n1\n500\n0.72 [0.68, 0.76]\n0.72\n\n\n1 to 3\n2\n500\n0.71 [0.66, 0.75]\n0.71\n\n\n1 to 4\n3\n500\n0.68 [0.63, 0.73]\n0.68\n\n\n1 to 5\n4\n500\n0.70 [0.65, 0.74]\n0.70\n\n\n2 to 3\n1\n500\n0.72 [0.68, 0.76]\n0.72\n\n\n2 to 4\n2\n500\n0.71 [0.66, 0.75]\n0.71\n\n\n2 to 5\n3\n500\n0.73 [0.69, 0.77]\n0.73\n\n\n3 to 4\n1\n500\n0.73 [0.68, 0.76]\n0.73\n\n\n3 to 5\n2\n500\n0.74 [0.70, 0.78]\n0.74\n\n\n4 to 5\n1\n500\n0.75 [0.71, 0.79]\n0.75\n\n\n\n\n\n\n\n\nAvailable cases versus the balanced panel (respondents scored in all 5 waves).\n\n\nWave\nAvailable cases\nBalanced panel\n\n\n\n\n1\n3.03 (N = 500)\n3.03 (N = 500)\n\n\n2\n3.11 (N = 500)\n3.11 (N = 500)\n\n\n3\n3.07 (N = 500)\n3.07 (N = 500)\n\n\n4\n3.08 (N = 500)\n3.08 (N = 500)\n\n\n5\n3.06 (N = 500)\n3.06 (N = 500)\n\n\n\n\n\nEvery respondent was scored in every wave, so the two columns are identical in this extract; the comparison is kept so the report stays valid on data with attrition."
+  },
+  {
+    "objectID": "antisci.html#reliability-with-and-without-item-4",
+    "href": "antisci.html#reliability-with-and-without-item-4",
+    "title": "Anti-scientific attitudes",
+    "section": "9 Reliability with and without item 4",
+    "text": "9 Reliability with and without item 4\n\n\n\nItem 4 is the only item worded in favour of experts and has the weakest item-rest correlation.\n\n\nWave\nAlpha, 4 items\nAlpha, items 1-3\nr between the two scores\n\n\n\n\n1\n0.78\n0.81\n0.97\n\n\n2\n0.77\n0.80\n0.97\n\n\n3\n0.78\n0.81\n0.97\n\n\n4\n0.79\n0.84\n0.97\n\n\n5\n0.80\n0.82\n0.97"
+  },
+  {
+    "objectID": "antisci.html#measurement-notes",
+    "href": "antisci.html#measurement-notes",
+    "title": "Anti-scientific attitudes",
+    "section": "10 Measurement notes",
+    "text": "10 Measurement notes\n\nThe guide marks item 4 as reverse-coded. Its stored values already correlate positively with items 1-3 in every wave, so the extract holds it reversed (decision log D6, Q2).\nWhether to keep item 4 is a decision for the lead (D7), so I report both scores."
+  },
+  {
+    "objectID": "antisci.html#reproducing-this-report",
+    "href": "antisci.html#reproducing-this-report",
+    "title": "Anti-scientific attitudes",
+    "section": "11 Reproducing this report",
+    "text": "11 Reproducing this report\nRebuild with Rscript run.R. Package versions are pinned in renv.lock, and every coding decision is in the decision log."
+  },
+  {
+    "objectID": "nat.html",
+    "href": "nat.html",
+    "title": "Nationalism",
+    "section": "",
+    "text": "The nationalism score (nat2) was measured in waves 1, 2, 4 and 5. Scored N per wave: 500, 500, 500, 500. No respondent is excluded, a provisional rule (decision log D22)."
+  },
+  {
+    "objectID": "nat.html#study-and-sample",
+    "href": "nat.html#study-and-sample",
+    "title": "Nationalism",
+    "section": "",
+    "text": "The nationalism score (nat2) was measured in waves 1, 2, 4 and 5. Scored N per wave: 500, 500, 500, 500. No respondent is excluded, a provisional rule (decision log D22)."
+  },
+  {
+    "objectID": "nat.html#items-and-coding",
+    "href": "nat.html#items-and-coding",
+    "title": "Nationalism",
+    "section": "2 Items and coding",
+    "text": "2 Items and coding\n\n\n\nItems (guide reference: Wagner et al. (2012)). Response scale: 1 = strongly disagree, 4 = neither, 7 = strongly agree. Non-answer codes observed: 0.\n\n\nItem\nWording\nFacet\nWaves\nDirection\n\n\n\n\nnat_1\nI am proud to be German.\n\n1, 2, 4, 5\n\n\n\nnat_2\nGerman history makes me proud.\n\n1, 2, 4, 5\n\n\n\nnat_3\nI identify myself with Germany.\n\n2, 4, 5\n\n\n\n\n\n\nScore. nat2 is the mean of its 2 items in the scored direction (higher = more nationalism), computed when at least 2 are valid. Scoring rules and names are provisional until the lead signs off (decision log D4, D21, D5, D9).\n\n\n\nItem answers by wave and type (respondents x items).\n\n\nWave\nValid\nBlank\nNon-answer code\nNot asked\n\n\n\n\n1\n1000\n0\n0\n500\n\n\n2\n1500\n0\n0\n0\n\n\n3\n1500\n0\n0\n0\n\n\n4\n1500\n0\n0\n0\n\n\n5\n1500\n0\n0\n0"
+  },
+  {
+    "objectID": "nat.html#distributions",
+    "href": "nat.html#distributions",
+    "title": "Nationalism",
+    "section": "3 Distributions",
+    "text": "3 Distributions\n\n\n\n\n\n\n\n\n\nResponse shares per item in wave 2, in the scored direction. Analytic N = 500.\n\n\n\nItem descriptives, wave 2, in the scored direction.\n\n\nItem\nN\nMean\nSD\nRange\nSE\n\n\n\n\nnat_1\n500\n4.41\n1.81\n1-7\n0.08\n\n\nnat_2\n500\n3.34\n1.64\n1-7\n0.07\n\n\nnat_3\n500\n5.04\n1.62\n1-7\n0.07\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nScore distribution by wave (smoothed density; individual values are not shown). Analytic N = 500."
+  },
+  {
+    "objectID": "nat.html#psychometrics",
+    "href": "nat.html#psychometrics",
+    "title": "Nationalism",
+    "section": "4 Psychometrics",
+    "text": "4 Psychometrics\n\n\n\nReliability by wave. Omega from a one-factor CFA.\n\n\n\n\n\n\n\n\n\n\nWave\nN\nItems\nCronbach’s alpha\nOmega total\nItem-rest r, family items (range)\n\n\n\n\n1\n500\n2\n0.76\nnot identified (2 items)\n0.62 to 0.62\n\n\n2\n500\n2\n0.74\nnot identified (2 items)\n0.57 to 0.79\n\n\n4\n500\n2\n0.77\nnot identified (2 items)\n0.59 to 0.80\n\n\n5\n500\n2\n0.74\nnot identified (2 items)\n0.54 to 0.78"
+  },
+  {
+    "objectID": "nat.html#sociodemographic-patterns",
+    "href": "nat.html#sociodemographic-patterns",
+    "title": "Nationalism",
+    "section": "5 Sociodemographic patterns",
+    "text": "5 Sociodemographic patterns\n\n\n\n\n\n\n\n\n\nMeans in wave 1. Groups with fewer than 10 respondents are not shown (another gender). Income bands and age groups are display groupings; respondents with blank income are omitted from that panel. Analytic N = 500."
+  },
+  {
+    "objectID": "nat.html#political-and-psychological-correlates",
+    "href": "nat.html#political-and-psychological-correlates",
+    "title": "Nationalism",
+    "section": "6 Political and psychological correlates",
+    "text": "6 Political and psychological correlates\n\n\n\nPearson correlations with nationalism in wave 1.\n\n\nVariable\nN\nr [95% CI]\n\n\n\n\nLeft-right self-placement\n487\n0.35 [0.27, 0.42]\n\n\nRight-wing authoritarianism (KSA-3)\n500\n0.44 [0.37, 0.51]\n\n\nAnti-scientific attitudes\n500\n0.15 [0.07, 0.24]\n\n\nConspiracy beliefs\n500\n0.12 [0.03, 0.20]"
+  },
+  {
+    "objectID": "nat.html#adjusted-model",
+    "href": "nat.html#adjusted-model",
+    "title": "Nationalism",
+    "section": "7 Adjusted model",
+    "text": "7 Adjusted model\n\n\n\nOLS of nationalism on demographics and left-right self-placement, wave 1. Outcome and numeric predictors in SD units, so group terms are differences in outcome SDs. R² = 0.14. N = 453.\n\n\nTerm\nBeta [95% CI]\n\n\n\n\nFemale (vs male)\n-0.16 [-0.33, 0.02]\n\n\nAge\n0.12 [0.03, 0.21]\n\n\nEntrance qualification (vs none)\n0.00 [-0.21, 0.21]\n\n\nUniversity degree (vs no entrance qualification)\n-0.09 [-0.31, 0.14]\n\n\nHousehold income band\n-0.03 [-0.12, 0.06]\n\n\nEast (vs West)\n0.14 [-0.07, 0.35]\n\n\nBerlin (vs West)\n-0.03 [-0.39, 0.33]\n\n\nLeft-right self-placement (right = high)\n0.34 [0.25, 0.42]\n\n\n\n\n\nThe model describes associations in this sample. Education groups are provisional (decision log D26), and “another gender” is excluded from the model as too small to estimate."
+  },
+  {
+    "objectID": "nat.html#change-over-time",
+    "href": "nat.html#change-over-time",
+    "title": "Nationalism",
+    "section": "8 Change over time",
+    "text": "8 Change over time\n\n\n\n\n\n\n\n\n\nWave means. Analytic N = 500. Self-rated attention subset: N = 480/493/487/488. The extract has no instructed-response attention flags, so this subset is a provisional robustness check (Q3).\n\n\n\nMean change from wave 1, random-intercept model (lme4). 500 respondents, 2000 observations.\n\n\nContrast\nChange [95% CI]\n\n\n\n\nwave 2 vs wave 1\n0.01 [-0.08, 0.10]\n\n\nwave 4 vs wave 1\n0.09 [0.00, 0.18]\n\n\nwave 5 vs wave 1\n0.17 [0.08, 0.26]\n\n\n\n\n\n\n\n\nCheck of the change estimates with a Bayesian random-intercept model (brms, Stan; 4 chains; prior normal(0, 1) on each contrast).\n\n\n\n\n\n\n\n\n\nContrast\nlme4 [95% CI]\nbrms [95% CrI]\nR-hat\nBulk ESS\n\n\n\n\nwave 2 vs wave 1\n0.01 [-0.08, 0.10]\n0.01 [-0.08, 0.10]\n1.00\n3248\n\n\nwave 4 vs wave 1\n0.09 [0.00, 0.18]\n0.09 [0.00, 0.18]\n1.00\n3220\n\n\nwave 5 vs wave 1\n0.17 [0.08, 0.26]\n0.17 [0.08, 0.26]\n1.00\n3102\n\n\n\n\n\nThe two methods agree: the largest difference between estimates is &lt; 0.001 scale points, and the largest R-hat is 1.001.\n\n\n\nRank-order stability: Pearson correlation of scores between waves, adjacent and longer intervals.\n\n\nWaves\nLag\nN\nr [95% CI]\nBalanced panel r\n\n\n\n\n1 to 2\n1\n500\n0.78 [0.74, 0.81]\n0.78\n\n\n1 to 4\n3\n500\n0.76 [0.72, 0.80]\n0.76\n\n\n1 to 5\n4\n500\n0.78 [0.74, 0.81]\n0.78\n\n\n2 to 4\n2\n500\n0.74 [0.70, 0.78]\n0.74\n\n\n2 to 5\n3\n500\n0.77 [0.74, 0.81]\n0.77\n\n\n4 to 5\n1\n500\n0.79 [0.76, 0.82]\n0.79\n\n\n\n\n\n\n\n\nAvailable cases versus the balanced panel (respondents scored in all 4 waves).\n\n\nWave\nAvailable cases\nBalanced panel\n\n\n\n\n1\n3.86 (N = 500)\n3.86 (N = 500)\n\n\n2\n3.87 (N = 500)\n3.87 (N = 500)\n\n\n4\n3.95 (N = 500)\n3.95 (N = 500)\n\n\n5\n4.03 (N = 500)\n4.03 (N = 500)\n\n\n\n\n\nEvery respondent was scored in every wave, so the two columns are identical in this extract; the comparison is kept so the report stays valid on data with attrition."
+  },
+  {
+    "objectID": "nat.html#three-item-score-and-wave-3",
+    "href": "nat.html#three-item-score-and-wave-3",
+    "title": "Nationalism",
+    "section": "9 Three-item score and wave 3",
+    "text": "9 Three-item score and wave 3\n\n\n\nThree-item score (nat3), waves 2, 4 and 5.\n\n\nWave\nN\nAlpha\nOmega total\nMean [95% CI]\n\n\n\n\n2\n500\n0.83\n0.85\n4.26 [4.13, 4.39]\n\n\n4\n500\n0.83\n0.85\n4.34 [4.21, 4.47]\n\n\n5\n500\n0.80\n0.84\n4.41 [4.29, 4.54]\n\n\n\n\n\n\nSensitivity: means including wave 3, which the guide does not list but the extract contains.\n\n\nScore\nWave\nN\nMean [95% CI]\n\n\n\n\nnat2\n1\n500\n3.86 [3.73, 3.99]\n\n\nnat2\n2\n500\n3.87 [3.74, 4.01]\n\n\nnat2\n3\n500\n3.92 [3.78, 4.07]\n\n\nnat2\n4\n500\n3.95 [3.82, 4.09]\n\n\nnat2\n5\n500\n4.03 [3.89, 4.17]\n\n\nnat3\n2\n500\n4.26 [4.13, 4.39]\n\n\nnat3\n3\n500\n4.31 [4.18, 4.45]\n\n\nnat3\n4\n500\n4.34 [4.21, 4.47]\n\n\nnat3\n5\n500\n4.41 [4.29, 4.54]"
+  },
+  {
+    "objectID": "nat.html#measurement-notes",
+    "href": "nat.html#measurement-notes",
+    "title": "Nationalism",
+    "section": "10 Measurement notes",
+    "text": "10 Measurement notes\n\nItems 1-2 are the only set asked in every wave, so I use their score (nat2) for change over time (decision log D5).\nThe guide lists waves 1, 2, 4 and 5, yet the extract holds complete wave 3 data for all three items. I keep wave 3 out of the main analysis until the lead confirms its wording and scale (D9, Q1). The table above shows it as a sensitivity check."
+  },
+  {
+    "objectID": "nat.html#reproducing-this-report",
+    "href": "nat.html#reproducing-this-report",
+    "title": "Nationalism",
+    "section": "11 Reproducing this report",
+    "text": "11 Reproducing this report\nRebuild with Rscript run.R. Package versions are pinned in renv.lock, and every coding decision is in the decision log."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Study E: reproducible construct reports",
+    "section": "",
+    "text": "These six reports were built from one pipeline: five constructs and vote intention, from the Study E extract. Every number comes from the coding specification and the data, through one command, Rscript run.R. Where a coding choice needs the scientific lead’s approval, the reports mark it as provisional."
+  },
+  {
+    "objectID": "index.html#how-i-would-work-at-ppbs",
+    "href": "index.html#how-i-would-work-at-ppbs",
+    "title": "Study E: reproducible construct reports",
+    "section": "How I would work at PPBS",
+    "text": "How I would work at PPBS\n\nWhy I want this work\nI like work whose value shows when someone else reruns it. PPBS holds data from many studies, waves and countries, and those data stay trustworthy only if someone looks after the pipeline week by week. I spent the past year building reproducibility checks for Replication Research, and I want to do that work inside a research programme.\n\n\nWhat I bring\n\nAuditing external analyses: For Replication Research I compared how CODECHECK and Meta-Psychology verify papers, and built the journal’s workflow on that basis. I still review for CODECHECK.\nSelf-auditing pipelines: In my MSc thesis (Bayesian spatiotemporal models in R and INLA, on an HPC cluster), every result is tied to the formula and data that produced it. That validation removed several results I had expected to keep.\nFamiliarity with survey data: The papers I checked were psychology papers, so I worked through their scale scoring, recoding, missing-data handling and reliability code. I co-authored a replication of Geers and Lassiter (2003).\nTransparent learning curve: I have not harmonised items across waves for a survey programme. I would start by learning the PPBS instruments, the way this exercise works through the Study E guide.\nCore toolkit: I work in R, Quarto, Git and GitHub Actions. For these reports I used targets, renv, testthat, lavaan, lme4, brms, nnet, marginaleffects and ggplot2, with psych as the reference for my reliability code.\n\n\n\nFirst improvement: one specification per study\nThe briefing asks for a consistent account of how each source item becomes a processed variable. I would keep that account in one machine-readable specification per study. Here, spec/ stores every item’s wording, waves, valid range, non-answer codes, wording direction and stored direction. One set of tested R functions reads it, checks the raw data and scores it.\n\n\n\n\n\n\n\nAction\nPlan\n\n\n\n\nWhat I would keep\nThe raw files as received, the NR, CF and NRCF sample labels, the master codebook on Drive, and the existing Quarto templates.\n\n\nWhat I would change\nReversals, non-answer codes and wave availability move out of report code into one reviewed, version-controlled specification.\n\n\nHow I would check it\nEach report’s items and coding section is generated from the specification, and a checker lists every difference between the specification and the documentation for a person to resolve.\n\n\nIn my first week\nReproduce one published report from fixed inputs, write its specification, rerun the pipeline and log every difference.\n\n\n\nThe checker has already proved useful here. The guide marks antisci_4 as reverse-coded, but the extract stores it already reversed, and three group authoritarianism items too. Reversing them again would have flipped them back. My build now separates wording direction from stored direction and stops if any item correlates negatively with its scale.\n\n\n\nSpecification against the item guide: 3 of 140 comparisons differ. Each difference has a decision log entry.\n\n\nItem\nField\nSpecification\nGuide\n\n\n\n\ngroup_rwa_2\nkeyed\n-\n+\n\n\ngroup_rwa_3\nkeyed\n-\n+\n\n\ngroup_rwa_5\nkeyed\n-\n+\n\n\n\n\n\nThe same direction field would also fix the 2016 system justification plots, where reversed values seem to appear under their original agree and disagree labels.\n\n\nSecond improvement: rebuild only what a correction touches\nI use targets, so a changed specification row, function or input reruns only what depends on it. When I refactored the processing code during this exercise, the processed file stayed byte-identical, and the matching checksums show it. Each build writes three records:\n\nvalidation/provenance.csv: source checksum, specification version, code commit, and a flag for uncommitted code;\nvalidation/manifest.csv: a checksum for every output;\nvalidation/issues.csv: a queue for the reviewer, sorted by severity.\n\n\n\n\nReviewer queue from this build. Blocking checks stop the build when they fail; decisions go to the lead.\n\n\n\n\n\n\n\n\n\nSeverity\nStatus\nCheck\nN\nRef\n\n\n\n\nblocking\npass\nexercise_id present and unique; wave labels match\n0\n\n\n\nblocking\npass\nvalues inside allowed range or documented codes\n0\n\n\n\nblocking\npass\ntext labels known to the spec\n0\n\n\n\nblocking\npass\nscored-direction item-rest r &gt; 0\n0\n\n\n\ndecision\nopen\nspec differs from the item guide (spec kept; each difference needs a log entry)\n3\nD6\n\n\ndecision\npass\nsample register N differs from respondents in the data\n0\nD24\n\n\ndecision\npass\nrespondents sharing a full response pattern\n0\nD18\n\n\ndecision\nopen\nwaves present but not in the guide\n2\nD9 / Q1\n\n\ndecision\nopen\nreverse-keyed items already reversed in extract\n4\nD6 / Q2\n\n\ndecision\nopen\nno instructed-response attention flags in extract\n0\nQ3\n\n\ndecision\nopen\nblanks where the guide documents 99/-99\n326\nD13 / Q4\n\n\ndecision\nopen\nstudy metadata not supplied\n2\nD16 / Q5\n\n\nnote\nrecorded\nnear-constant item-waves (one category &gt;= 80% of valid answers)\n0\nD25\n\n\nnote\nrecorded\nage decreases from previous wave\n1\nD14 / D15\n\n\nnote\nrecorded\nregion differs from previous wave\n5\nD14 / D15\n\n\nnote\nrecorded\neducation code differs, wave 5 vs wave 1\n53\nD14 / D15\n\n\n\n\n\nI treat a release as final once a second person has rerun the build and matched the checksums, and the lead has signed off the open decisions (docs/release_record.md). That is the CODECHECK idea applied to a data release.\nOnce these functions have served two studies, I would turn them into a small internal package. It would build on the tools PPBS already uses (haven, codebook, dataMaid, psych) and add only the PPBS-specific layer.\nTwo smaller steps would come first. I would run dataMaid after the declared missing codes are set, so its screening report shows only real surprises. I would also write each report’s entry in the format of the website’s data/reports.json, so new reports drop into the existing site.\n\n\nDecision matrix\n\n\n\n\n\n\n\nDecisions I make\nDecisions I prepare for the lead\n\n\n\n\nCoding mechanics, checks, file layout, build, documentation\nExclusion and attention rules, undocumented reversals, dropping items\n\n\nRecording what kind each missing value is\nEquivalence across waves, countries and translations\n\n\nFlagging inconsistencies and counting them\nScoring formulas, collapsing categories, names, panel status, models for new outcomes, publication\n\n\n\nThe reviewer queue above shows the decisions this build leaves open; the questions behind them are listed at the end of this page.\n\n\nSurvey setup, codebooks and decision records\nBefore fielding, I would give every item a stable ID, export numeric codes together with their labels, store the wave as embedded data and use one code for “not specified”. Study E shows why: gender, income and vote arrive as German text, and non-answer codes differ by item.\nI would compare the Drive master codebook with the specification the same way I compared the guide above, and send each mismatch to the codebook owner. A decision from the weekly meeting or from Slack becomes one decision log entry, one pull request that changes the specification, and one reviewer sign-off.\nI would also keep a sample register, one row per study, sample and wave. My build checks it against the respondents present.\n\n\n\nSample register, first row (spec/sample_register.csv).\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nStudy\nCountry\nYear\nSample type\nWave\nScreening\nInstrument\nN released\nRelease status\nOwner\n\n\n\n\nStudy E\nDE\nnot supplied\nnot supplied\n1\nscreened before the extract was made; attention-check flags not supplied\nStudy_E_Item_Guide.html\n500\nembargoed exercise extract\nPPBS (F. Azevedo)"
+  },
+  {
+    "objectID": "index.html#how-these-reports-use-the-ppbs-template",
+    "href": "index.html#how-these-reports-use-the-ppbs-template",
+    "title": "Study E: reproducible construct reports",
+    "section": "How these reports use the PPBS template",
+    "text": "How these reports use the PPBS template\nI started from the published PPBS construct reports and the archived single-file report, and kept their order of sections. I replaced the optional Quarto starter with one parameterised template; each report still covers its four parts: item map and quality checks, cross-sectional results, longitudinal results, and reproducibility.\n\nAdded: reliability for every wave, a factor analysis of the RWA facets, and change over time, since Study E is a panel.\nChanged: 95% intervals in place of significance stars, groups under 10 respondents suppressed, and response labels in the scored direction. One template, driven by the specification, serves all five constructs.\nLeft out: candidate, party identity and likeability items, which Study E does not have; the social class index, whose grouping is a lead decision; and the elastic net. Vote intention has its own report."
+  },
+  {
+    "objectID": "index.html#reports",
+    "href": "index.html#reports",
+    "title": "Study E: reproducible construct reports",
+    "section": "Reports",
+    "text": "Reports\n\n\n\nReport\nWaves\nNote\n\n\n\n\nRight-wing authoritarianism\n1-5\nNine KSA-3 items, three facets\n\n\nNationalism\n1, 2, 4, 5\nTwo-item score across waves; three-item score from wave 2; wave 3 as sensitivity\n\n\nGroup authoritarianism\n4-5\nOne interval only\n\n\nAnti-scientific attitudes\n1-5\nWith and without item 4\n\n\nConspiracy beliefs\n1-5\nFive items\n\n\nVote intention\n1-5\nFrequencies, switching, multinomial model"
+  },
+  {
+    "objectID": "index.html#open-questions-for-the-lead",
+    "href": "index.html#open-questions-for-the-lead",
+    "title": "Study E: reproducible construct reports",
+    "section": "Open questions for the lead",
+    "text": "Open questions for the lead\n\nQ1. Was nationalism fielded in wave 3 with the same wording and scale?\nQ2. Were antisci_4 and group_rwa_2/3/5 reversed before export?\nQ3. The extract has no instructed-response attention flags. Which robustness rule should replace them?\nQ4. Were the blanks in ideology, income and vote originally “not specified” answers?\nQ5. What are the field year(s) and sample type of Study E?\nQ6. Could you share the German wording as fielded?"
+  },
+  {
+    "objectID": "rwa.html",
+    "href": "rwa.html",
+    "title": "Right-wing authoritarianism",
+    "section": "",
+    "text": "The right-wing authoritarianism score (rwa) was measured in waves 1, 2, 3, 4 and 5. Scored N per wave: 500, 500, 500, 500, 500. No respondent is excluded, a provisional rule (decision log D22)."
+  },
+  {
+    "objectID": "rwa.html#study-and-sample",
+    "href": "rwa.html#study-and-sample",
+    "title": "Right-wing authoritarianism",
+    "section": "",
+    "text": "The right-wing authoritarianism score (rwa) was measured in waves 1, 2, 3, 4 and 5. Scored N per wave: 500, 500, 500, 500, 500. No respondent is excluded, a provisional rule (decision log D22)."
+  },
+  {
+    "objectID": "rwa.html#items-and-coding",
+    "href": "rwa.html#items-and-coding",
+    "title": "Right-wing authoritarianism",
+    "section": "2 Items and coding",
+    "text": "2 Items and coding\n\n\n\nItems (guide reference: Beierlein, Asbrock, et al. (2014), Nießen et al. (2019)). Response scale: 1 = strongly disagree, 4 = neither, 7 = strongly agree. Non-answer codes observed: 0.\n\n\n\n\n\n\n\n\n\nItem\nWording\nFacet\nWaves\nDirection\n\n\n\n\nrwa_1\nWe should take strong action against misfits and slackers in society.\naggression\n1, 2, 3, 4, 5\n\n\n\nrwa_2\nTroublemakers should be made to feel that they are not welcome in society.\naggression\n1, 2, 3, 4, 5\n\n\n\nrwa_3\nRules in society should be enforced without pity.\naggression\n1, 2, 3, 4, 5\n\n\n\nrwa_4\nWe need strong leaders so that we can live safely in society.\nsubmission\n1, 2, 3, 4, 5\n\n\n\nrwa_5\nPeople should leave important decisions in society to their leaders.\nsubmission\n1, 2, 3, 4, 5\n\n\n\nrwa_6\nWe should be grateful for leaders telling us exactly what to do.\nsubmission\n1, 2, 3, 4, 5\n\n\n\nrwa_7\nTraditions should definitely be carried on and kept alive.\nconventionalism\n1, 2, 3, 4, 5\n\n\n\nrwa_8\nWell-established behavior should not be questioned.\nconventionalism\n1, 2, 3, 4, 5\n\n\n\nrwa_9\nIt’s always best to do things in the usual way.\nconventionalism\n1, 2, 3, 4, 5\n\n\n\n\n\n\nScore. rwa is the mean of its 9 items in the scored direction (higher = more right-wing authoritarianism), computed when at least 7 are valid. Scoring rules and names are provisional until the lead signs off (decision log D4, D21).\n\n\n\nItem answers by wave and type (respondents x items).\n\n\nWave\nValid\nBlank\nNon-answer code\nNot asked\n\n\n\n\n1\n4500\n0\n0\n0\n\n\n2\n4500\n0\n0\n0\n\n\n3\n4500\n0\n0\n0\n\n\n4\n4500\n0\n0\n0\n\n\n5\n4500\n0\n0\n0"
+  },
+  {
+    "objectID": "rwa.html#distributions",
+    "href": "rwa.html#distributions",
+    "title": "Right-wing authoritarianism",
+    "section": "3 Distributions",
+    "text": "3 Distributions\n\n\n\n\n\n\n\n\n\nResponse shares per item in wave 1, in the scored direction. Analytic N = 500.\n\n\n\nItem descriptives, wave 1, in the scored direction.\n\n\nItem\nN\nMean\nSD\nRange\nSE\n\n\n\n\nrwa_1\n500\n3.90\n1.77\n1-7\n0.08\n\n\nrwa_2\n500\n5.02\n1.63\n1-7\n0.07\n\n\nrwa_3\n500\n4.08\n1.61\n1-7\n0.07\n\n\nrwa_4\n500\n4.54\n1.59\n1-7\n0.07\n\n\nrwa_5\n500\n3.54\n1.53\n1-7\n0.07\n\n\nrwa_6\n500\n3.41\n1.55\n1-7\n0.07\n\n\nrwa_7\n500\n4.71\n1.66\n1-7\n0.07\n\n\nrwa_8\n500\n3.88\n1.61\n1-7\n0.07\n\n\nrwa_9\n500\n3.60\n1.47\n1-7\n0.07\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nScore distribution by wave (smoothed density; individual values are not shown). Analytic N = 500."
+  },
+  {
+    "objectID": "rwa.html#psychometrics",
+    "href": "rwa.html#psychometrics",
+    "title": "Right-wing authoritarianism",
+    "section": "4 Psychometrics",
+    "text": "4 Psychometrics\n\n\n\nReliability by wave. Omega from a one-factor CFA.\n\n\n\n\n\n\n\n\n\n\nWave\nN\nItems\nCronbach’s alpha\nOmega total\nItem-rest r, family items (range)\n\n\n\n\n1\n500\n9\n0.85\n0.85\n0.53 to 0.63\n\n\n2\n500\n9\n0.84\n0.84\n0.50 to 0.62\n\n\n3\n500\n9\n0.87\n0.87\n0.53 to 0.66\n\n\n4\n500\n9\n0.87\n0.87\n0.53 to 0.65\n\n\n5\n500\n9\n0.85\n0.85\n0.53 to 0.65\n\n\n\n\n\n\nConfirmatory factor analysis: three correlated facets (aggression, submission, conventionalism)\n\n\nWave\nN\nχ²\ndf\nCFI\nTLI\nRMSEA\nSRMR\n\n\n\n\n1\n500\n103.56\n24\n0.95\n0.93\n0.08\n0.05\n\n\n2\n500\n71.35\n24\n0.97\n0.95\n0.06\n0.04\n\n\n3\n500\n111.60\n24\n0.95\n0.93\n0.09\n0.05\n\n\n4\n500\n123.31\n24\n0.95\n0.92\n0.09\n0.06\n\n\n5\n500\n120.42\n24\n0.94\n0.91\n0.09\n0.06\n\n\n\nConventional cut-offs (CFI near .95, RMSEA near .06) are rough reference points."
+  },
+  {
+    "objectID": "rwa.html#sociodemographic-patterns",
+    "href": "rwa.html#sociodemographic-patterns",
+    "title": "Right-wing authoritarianism",
+    "section": "5 Sociodemographic patterns",
+    "text": "5 Sociodemographic patterns\n\n\n\n\n\n\n\n\n\nMeans in wave 1. Groups with fewer than 10 respondents are not shown (another gender). Income bands and age groups are display groupings; respondents with blank income are omitted from that panel. Analytic N = 500."
+  },
+  {
+    "objectID": "rwa.html#political-and-psychological-correlates",
+    "href": "rwa.html#political-and-psychological-correlates",
+    "title": "Right-wing authoritarianism",
+    "section": "6 Political and psychological correlates",
+    "text": "6 Political and psychological correlates\n\n\n\nPearson correlations with right-wing authoritarianism in wave 1.\n\n\nVariable\nN\nr [95% CI]\n\n\n\n\nLeft-right self-placement\n487\n0.29 [0.20, 0.37]\n\n\nNationalism (two-item score)\n500\n0.44 [0.37, 0.51]\n\n\nAnti-scientific attitudes\n500\n0.24 [0.16, 0.32]\n\n\nConspiracy beliefs\n500\n0.21 [0.13, 0.29]"
+  },
+  {
+    "objectID": "rwa.html#adjusted-model",
+    "href": "rwa.html#adjusted-model",
+    "title": "Right-wing authoritarianism",
+    "section": "7 Adjusted model",
+    "text": "7 Adjusted model\n\n\n\nOLS of right-wing authoritarianism on demographics and left-right self-placement, wave 1. Outcome and numeric predictors in SD units, so group terms are differences in outcome SDs. R² = 0.15. N = 453.\n\n\n\n\n\n\nTerm\nBeta [95% CI]\n\n\n\n\nFemale (vs male)\n0.06 [-0.12, 0.23]\n\n\nAge\n0.05 [-0.04, 0.13]\n\n\nEntrance qualification (vs none)\n-0.30 [-0.51, -0.09]\n\n\nUniversity degree (vs no entrance qualification)\n-0.42 [-0.64, -0.19]\n\n\nHousehold income band\n0.10 [0.01, 0.20]\n\n\nEast (vs West)\n0.39 [0.19, 0.60]\n\n\nBerlin (vs West)\n-0.32 [-0.68, 0.04]\n\n\nLeft-right self-placement (right = high)\n0.26 [0.18, 0.35]\n\n\n\n\n\nThe model describes associations in this sample. Education groups are provisional (decision log D26), and “another gender” is excluded from the model as too small to estimate."
+  },
+  {
+    "objectID": "rwa.html#change-over-time",
+    "href": "rwa.html#change-over-time",
+    "title": "Right-wing authoritarianism",
+    "section": "8 Change over time",
+    "text": "8 Change over time\n\n\n\n\n\n\n\n\n\nWave means. Analytic N = 500. Self-rated attention subset: N = 480/493/487/487/488. The extract has no instructed-response attention flags, so this subset is a provisional robustness check (Q3).\n\n\n\nMean change from wave 1, random-intercept model (lme4). 500 respondents, 2500 observations.\n\n\nContrast\nChange [95% CI]\n\n\n\n\nwave 2 vs wave 1\n-0.05 [-0.12, 0.01]\n\n\nwave 3 vs wave 1\n0.01 [-0.06, 0.07]\n\n\nwave 4 vs wave 1\n0.00 [-0.06, 0.06]\n\n\nwave 5 vs wave 1\n0.06 [0.00, 0.13]\n\n\n\n\n\n\n\n\nCheck of the change estimates with a Bayesian random-intercept model (brms, Stan; 4 chains; prior normal(0, 1) on each contrast).\n\n\n\n\n\n\n\n\n\nContrast\nlme4 [95% CI]\nbrms [95% CrI]\nR-hat\nBulk ESS\n\n\n\n\nwave 2 vs wave 1\n-0.05 [-0.12, 0.01]\n-0.05 [-0.12, 0.01]\n1.00\n3452\n\n\nwave 3 vs wave 1\n0.01 [-0.06, 0.07]\n0.01 [-0.06, 0.07]\n1.00\n3682\n\n\nwave 4 vs wave 1\n0.00 [-0.06, 0.06]\n0.00 [-0.06, 0.06]\n1.00\n3605\n\n\nwave 5 vs wave 1\n0.06 [0.00, 0.13]\n0.06 [0.00, 0.13]\n1.00\n3587\n\n\n\n\n\nThe two methods agree: the largest difference between estimates is &lt; 0.001 scale points, and the largest R-hat is 1.001.\n\n\n\nRank-order stability: Pearson correlation of scores between waves, adjacent and longer intervals.\n\n\nWaves\nLag\nN\nr [95% CI]\nBalanced panel r\n\n\n\n\n1 to 2\n1\n500\n0.79 [0.76, 0.82]\n0.79\n\n\n1 to 3\n2\n500\n0.79 [0.76, 0.82]\n0.79\n\n\n1 to 4\n3\n500\n0.79 [0.75, 0.82]\n0.79\n\n\n1 to 5\n4\n500\n0.79 [0.76, 0.82]\n0.79\n\n\n2 to 3\n1\n500\n0.76 [0.73, 0.80]\n0.76\n\n\n2 to 4\n2\n500\n0.78 [0.74, 0.81]\n0.78\n\n\n2 to 5\n3\n500\n0.79 [0.75, 0.82]\n0.79\n\n\n3 to 4\n1\n500\n0.81 [0.78, 0.84]\n0.81\n\n\n3 to 5\n2\n500\n0.77 [0.73, 0.80]\n0.77\n\n\n4 to 5\n1\n500\n0.81 [0.78, 0.84]\n0.81\n\n\n\n\n\n\n\n\nAvailable cases versus the balanced panel (respondents scored in all 5 waves).\n\n\nWave\nAvailable cases\nBalanced panel\n\n\n\n\n1\n4.08 (N = 500)\n4.08 (N = 500)\n\n\n2\n4.02 (N = 500)\n4.02 (N = 500)\n\n\n3\n4.09 (N = 500)\n4.09 (N = 500)\n\n\n4\n4.08 (N = 500)\n4.08 (N = 500)\n\n\n5\n4.14 (N = 500)\n4.14 (N = 500)\n\n\n\n\n\nEvery respondent was scored in every wave, so the two columns are identical in this extract; the comparison is kept so the report stays valid on data with attrition."
+  },
+  {
+    "objectID": "rwa.html#measurement-notes",
+    "href": "rwa.html#measurement-notes",
+    "title": "Right-wing authoritarianism",
+    "section": "9 Measurement notes",
+    "text": "9 Measurement notes\n\nThe nine KSA-3 items were asked in all five waves with the same wording and scale, so every wave comparison uses the same item set.\nThe guide lists the items without facets, so I took the facet split from the KSA-3 publication (decision log D19).\nAn extra undocumented authoritarianism field was withheld from the extract."
+  },
+  {
+    "objectID": "rwa.html#reproducing-this-report",
+    "href": "rwa.html#reproducing-this-report",
+    "title": "Right-wing authoritarianism",
+    "section": "10 Reproducing this report",
+    "text": "10 Reproducing this report\nRebuild with Rscript run.R. Package versions are pinned in renv.lock, and every coding decision is in the decision log."
+  },
+  {
+    "objectID": "group_rwa.html",
+    "href": "group_rwa.html",
+    "title": "Group authoritarianism",
+    "section": "",
+    "text": "The group authoritarianism score (group_rwa) was measured in waves 4 and 5. Scored N per wave: 500, 500. No respondent is excluded, a provisional rule (decision log D22)."
+  },
+  {
+    "objectID": "group_rwa.html#study-and-sample",
+    "href": "group_rwa.html#study-and-sample",
+    "title": "Group authoritarianism",
+    "section": "",
+    "text": "The group authoritarianism score (group_rwa) was measured in waves 4 and 5. Scored N per wave: 500, 500. No respondent is excluded, a provisional rule (decision log D22)."
+  },
+  {
+    "objectID": "group_rwa.html#items-and-coding",
+    "href": "group_rwa.html#items-and-coding",
+    "title": "Group authoritarianism",
+    "section": "2 Items and coding",
+    "text": "2 Items and coding\n\n\n\nItems (guide reference: Stellmacher and Petzel (2005)). Response scale: 1 = strongly disagree, 4 = neither, 7 = strongly agree. Non-answer codes observed: 0.\n\n\n\n\n\n\n\n\n\nItem\nWording\nFacet\nWaves\nDirection\n\n\n\n\ngroup_rwa_1\nA group member who has violated group rules should be punished severely.\n\n4, 5\n\n\n\ngroup_rwa_2\nA group member may act differently from demands of group rules.\n\n4, 5\nreverse-keyed; already reversed in the extract, used as stored\n\n\ngroup_rwa_3\nIf a group member does not agree with decisions of a group leader, he or she should not follow his orders.\n\n4, 5\nreverse-keyed; already reversed in the extract, used as stored\n\n\ngroup_rwa_4\nA group member should always obey group rules.\n\n4, 5\n\n\n\ngroup_rwa_5\nA group member has not necessarily to be punished very hard if he has offended against group rules once.\n\n4, 5\nreverse-keyed; already reversed in the extract, used as stored\n\n\ngroup_rwa_6\nInstructions of group leaders should be obeyed under all circumstances.\n\n4, 5\n\n\n\n\n\n\nScore. group_rwa is the mean of its 6 items in the scored direction (higher = more group authoritarianism), computed when at least 5 are valid. Scoring rules and names are provisional until the lead signs off (decision log D4, D21, D6).\n\n\n\nItem answers by wave and type (respondents x items).\n\n\nWave\nValid\nBlank\nNon-answer code\nNot asked\n\n\n\n\n1\n0\n0\n0\n3000\n\n\n2\n0\n0\n0\n3000\n\n\n3\n0\n0\n0\n3000\n\n\n4\n3000\n0\n0\n0\n\n\n5\n3000\n0\n0\n0"
+  },
+  {
+    "objectID": "group_rwa.html#distributions",
+    "href": "group_rwa.html#distributions",
+    "title": "Group authoritarianism",
+    "section": "3 Distributions",
+    "text": "3 Distributions\n\n\n\n\n\n\n\n\n\nResponse shares per item in wave 4, in the scored direction (1 = lowest, 7 = highest group authoritarianism). For a reverse-keyed item, 7 means strong disagreement with its wording. Analytic N = 500.\n\n\n\nItem descriptives, wave 4, in the scored direction.\n\n\nItem\nN\nMean\nSD\nRange\nSE\n\n\n\n\ngroup_rwa_1\n500\n4.33\n1.53\n1-7\n0.07\n\n\ngroup_rwa_2 (reverse-keyed)\n500\n3.44\n1.49\n1-7\n0.07\n\n\ngroup_rwa_3 (reverse-keyed)\n500\n3.74\n1.56\n1-7\n0.07\n\n\ngroup_rwa_4\n500\n4.53\n1.41\n1-7\n0.06\n\n\ngroup_rwa_5 (reverse-keyed)\n500\n3.19\n1.43\n1-7\n0.06\n\n\ngroup_rwa_6\n500\n3.70\n1.50\n1-7\n0.07\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nScore distribution by wave (smoothed density; individual values are not shown). Analytic N = 500."
+  },
+  {
+    "objectID": "group_rwa.html#psychometrics",
+    "href": "group_rwa.html#psychometrics",
+    "title": "Group authoritarianism",
+    "section": "4 Psychometrics",
+    "text": "4 Psychometrics\n\n\n\nReliability by wave. Omega from a one-factor CFA.\n\n\n\n\n\n\n\n\n\n\nWave\nN\nItems\nCronbach’s alpha\nOmega total\nItem-rest r, family items (range)\n\n\n\n\n4\n500\n6\n0.78\n0.77\n0.35 to 0.59\n\n\n5\n500\n6\n0.81\n0.81\n0.39 to 0.67"
+  },
+  {
+    "objectID": "group_rwa.html#sociodemographic-patterns",
+    "href": "group_rwa.html#sociodemographic-patterns",
+    "title": "Group authoritarianism",
+    "section": "5 Sociodemographic patterns",
+    "text": "5 Sociodemographic patterns\n\n\n\n\n\n\n\n\n\nMeans in wave 4. Groups with fewer than 10 respondents are not shown (another gender, 18-29). Income bands and age groups are display groupings; respondents with blank income are omitted from that panel. Analytic N = 500."
+  },
+  {
+    "objectID": "group_rwa.html#political-and-psychological-correlates",
+    "href": "group_rwa.html#political-and-psychological-correlates",
+    "title": "Group authoritarianism",
+    "section": "6 Political and psychological correlates",
+    "text": "6 Political and psychological correlates\n\n\n\nPearson correlations with group authoritarianism in wave 4.\n\n\nVariable\nN\nr [95% CI]\n\n\n\n\nLeft-right self-placement\n490\n0.22 [0.14, 0.31]\n\n\nRight-wing authoritarianism (KSA-3)\n500\n0.48 [0.41, 0.54]\n\n\nNationalism (two-item score)\n500\n0.27 [0.19, 0.35]\n\n\nAnti-scientific attitudes\n500\n0.17 [0.08, 0.25]\n\n\nConspiracy beliefs\n500\n0.16 [0.07, 0.24]"
+  },
+  {
+    "objectID": "group_rwa.html#adjusted-model",
+    "href": "group_rwa.html#adjusted-model",
+    "title": "Group authoritarianism",
+    "section": "7 Adjusted model",
+    "text": "7 Adjusted model\n\n\n\nOLS of group authoritarianism on demographics and left-right self-placement, wave 4. Outcome and numeric predictors in SD units, so group terms are differences in outcome SDs. R² = 0.08. N = 457.\n\n\n\n\n\n\nTerm\nBeta [95% CI]\n\n\n\n\nFemale (vs male)\n0.08 [-0.10, 0.25]\n\n\nAge\n-0.01 [-0.10, 0.08]\n\n\nEntrance qualification (vs none)\n0.05 [-0.17, 0.27]\n\n\nUniversity degree (vs no entrance qualification)\n-0.32 [-0.55, -0.09]\n\n\nHousehold income band\n0.06 [-0.04, 0.15]\n\n\nEast (vs West)\n0.09 [-0.12, 0.30]\n\n\nBerlin (vs West)\n-0.30 [-0.68, 0.07]\n\n\nLeft-right self-placement (right = high)\n0.20 [0.11, 0.29]\n\n\n\n\n\nThe model describes associations in this sample. Education groups are provisional (decision log D26), and “another gender” is excluded from the model as too small to estimate."
+  },
+  {
+    "objectID": "group_rwa.html#change-over-time",
+    "href": "group_rwa.html#change-over-time",
+    "title": "Group authoritarianism",
+    "section": "8 Change over time",
+    "text": "8 Change over time\n\n\n\n\n\n\n\n\n\nWave means. Analytic N = 500. Self-rated attention subset: N = 487/488. The extract has no instructed-response attention flags, so this subset is a provisional robustness check (Q3).\n\n\n\nMean change from wave 4, random-intercept model (lme4). 500 respondents, 1000 observations.\n\n\nContrast\nChange [95% CI]\n\n\n\n\nwave 5 vs wave 4\n0.04 [-0.05, 0.12]\n\n\n\n\n\n\n\n\nCheck of the change estimates with a Bayesian random-intercept model (brms, Stan; 4 chains; prior normal(0, 1) on each contrast).\n\n\n\n\n\n\n\n\n\nContrast\nlme4 [95% CI]\nbrms [95% CrI]\nR-hat\nBulk ESS\n\n\n\n\nwave 5 vs wave 4\n0.04 [-0.05, 0.12]\n0.04 [-0.05, 0.13]\n1.00\n5463\n\n\n\n\n\nThe two methods agree: the largest difference between estimates is &lt; 0.001 scale points, and the largest R-hat is 1.001.\n\n\n\nRank-order stability: Pearson correlation of scores between waves, adjacent and longer intervals.\n\n\nWaves\nLag\nN\nr [95% CI]\nBalanced panel r\n\n\n\n\n4 to 5\n1\n500\n0.60 [0.54, 0.65]\n0.60\n\n\n\n\n\n\n\n\nAvailable cases versus the balanced panel (respondents scored in all 2 waves).\n\n\nWave\nAvailable cases\nBalanced panel\n\n\n\n\n4\n3.82 (N = 500)\n3.82 (N = 500)\n\n\n5\n3.86 (N = 500)\n3.86 (N = 500)\n\n\n\n\n\nEvery respondent was scored in every wave, so the two columns are identical in this extract; the comparison is kept so the report stays valid on data with attrition."
+  },
+  {
+    "objectID": "group_rwa.html#measurement-notes",
+    "href": "group_rwa.html#measurement-notes",
+    "title": "Group authoritarianism",
+    "section": "9 Measurement notes",
+    "text": "9 Measurement notes\n\nThe six items were asked only in waves 4 and 5, so change over time rests on one interval and longer-run stability cannot be estimated.\nItems 2, 3 and 5 are worded against the construct. The guide does not mark them as reversed. Their stored values correlate positively with the other items in both waves, so the extract already holds them reversed (decision log D6). The fielded instrument should confirm this (Q2)."
+  },
+  {
+    "objectID": "group_rwa.html#reproducing-this-report",
+    "href": "group_rwa.html#reproducing-this-report",
+    "title": "Group authoritarianism",
+    "section": "10 Reproducing this report",
+    "text": "10 Reproducing this report\nRebuild with Rscript run.R. Package versions are pinned in renv.lock, and every coding decision is in the decision log."
+  },
+  {
+    "objectID": "conspiracy.html",
+    "href": "conspiracy.html",
+    "title": "Conspiracy beliefs",
+    "section": "",
+    "text": "The conspiracy beliefs score (conspiracy) was measured in waves 1, 2, 3, 4 and 5. Scored N per wave: 500, 500, 500, 500, 500. No respondent is excluded, a provisional rule (decision log D22)."
+  },
+  {
+    "objectID": "conspiracy.html#study-and-sample",
+    "href": "conspiracy.html#study-and-sample",
+    "title": "Conspiracy beliefs",
+    "section": "",
+    "text": "The conspiracy beliefs score (conspiracy) was measured in waves 1, 2, 3, 4 and 5. Scored N per wave: 500, 500, 500, 500, 500. No respondent is excluded, a provisional rule (decision log D22)."
+  },
+  {
+    "objectID": "conspiracy.html#items-and-coding",
+    "href": "conspiracy.html#items-and-coding",
+    "title": "Conspiracy beliefs",
+    "section": "2 Items and coding",
+    "text": "2 Items and coding\n\n\n\nItems (guide reference: Imhoff et al. (2022)). Response scale: 1 = strongly disagree, 4 = neither, 7 = strongly agree. Non-answer codes observed: 0.\n\n\n\n\n\n\n\n\n\nItem\nWording\nFacet\nWaves\nDirection\n\n\n\n\nconspiracy_1\nI think that many very important things happen in the world, which the public is never informed about.\n\n1, 2, 3, 4, 5\n\n\n\nconspiracy_2\nI think that politicians usually do not tell us the true motives for their decisions.\n\n1, 2, 3, 4, 5\n\n\n\nconspiracy_3\nI think that government agencies closely monitor all citizens.\n\n1, 2, 3, 4, 5\n\n\n\nconspiracy_4\nI think that events which superficially seem to lack a connection are often the result of secret activities.\n\n1, 2, 3, 4, 5\n\n\n\nconspiracy_5\nI think that there are secret organizations that greatly influence political decisions.\n\n1, 2, 3, 4, 5\n\n\n\n\n\n\nScore. conspiracy is the mean of its 5 items in the scored direction (higher = more conspiracy beliefs), computed when at least 4 are valid. Scoring rules and names are provisional until the lead signs off (decision log D4, D21).\n\n\n\nItem answers by wave and type (respondents x items).\n\n\nWave\nValid\nBlank\nNon-answer code\nNot asked\n\n\n\n\n1\n2500\n0\n0\n0\n\n\n2\n2500\n0\n0\n0\n\n\n3\n2500\n0\n0\n0\n\n\n4\n2500\n0\n0\n0\n\n\n5\n2500\n0\n0\n0"
+  },
+  {
+    "objectID": "conspiracy.html#distributions",
+    "href": "conspiracy.html#distributions",
+    "title": "Conspiracy beliefs",
+    "section": "3 Distributions",
+    "text": "3 Distributions\n\n\n\n\n\n\n\n\n\nResponse shares per item in wave 1, in the scored direction. Analytic N = 500.\n\n\n\nItem descriptives, wave 1, in the scored direction.\n\n\nItem\nN\nMean\nSD\nRange\nSE\n\n\n\n\nconspiracy_1\n500\n4.74\n1.73\n1-7\n0.08\n\n\nconspiracy_2\n500\n4.71\n1.68\n1-7\n0.08\n\n\nconspiracy_3\n500\n3.52\n1.79\n1-7\n0.08\n\n\nconspiracy_4\n500\n3.43\n1.80\n1-7\n0.08\n\n\nconspiracy_5\n500\n3.62\n1.96\n1-7\n0.09\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nScore distribution by wave (smoothed density; individual values are not shown). Analytic N = 500."
+  },
+  {
+    "objectID": "conspiracy.html#psychometrics",
+    "href": "conspiracy.html#psychometrics",
+    "title": "Conspiracy beliefs",
+    "section": "4 Psychometrics",
+    "text": "4 Psychometrics\n\n\n\nReliability by wave. Omega from a one-factor CFA.\n\n\n\n\n\n\n\n\n\n\nWave\nN\nItems\nCronbach’s alpha\nOmega total\nItem-rest r, family items (range)\n\n\n\n\n1\n500\n5\n0.89\n0.89\n0.68 to 0.78\n\n\n2\n500\n5\n0.89\n0.89\n0.67 to 0.79\n\n\n3\n500\n5\n0.90\n0.90\n0.67 to 0.81\n\n\n4\n500\n5\n0.91\n0.91\n0.71 to 0.81\n\n\n5\n500\n5\n0.91\n0.91\n0.69 to 0.82"
+  },
+  {
+    "objectID": "conspiracy.html#sociodemographic-patterns",
+    "href": "conspiracy.html#sociodemographic-patterns",
+    "title": "Conspiracy beliefs",
+    "section": "5 Sociodemographic patterns",
+    "text": "5 Sociodemographic patterns\n\n\n\n\n\n\n\n\n\nMeans in wave 1. Groups with fewer than 10 respondents are not shown (another gender). Income bands and age groups are display groupings; respondents with blank income are omitted from that panel. Analytic N = 500."
+  },
+  {
+    "objectID": "conspiracy.html#political-and-psychological-correlates",
+    "href": "conspiracy.html#political-and-psychological-correlates",
+    "title": "Conspiracy beliefs",
+    "section": "6 Political and psychological correlates",
+    "text": "6 Political and psychological correlates\n\n\n\nPearson correlations with conspiracy beliefs in wave 1.\n\n\nVariable\nN\nr [95% CI]\n\n\n\n\nLeft-right self-placement\n487\n0.24 [0.15, 0.32]\n\n\nRight-wing authoritarianism (KSA-3)\n500\n0.21 [0.13, 0.29]\n\n\nNationalism (two-item score)\n500\n0.12 [0.03, 0.20]\n\n\nAnti-scientific attitudes\n500\n0.55 [0.49, 0.61]"
+  },
+  {
+    "objectID": "conspiracy.html#adjusted-model",
+    "href": "conspiracy.html#adjusted-model",
+    "title": "Conspiracy beliefs",
+    "section": "7 Adjusted model",
+    "text": "7 Adjusted model\n\n\n\nOLS of conspiracy beliefs on demographics and left-right self-placement, wave 1. Outcome and numeric predictors in SD units, so group terms are differences in outcome SDs. R² = 0.14. N = 453.\n\n\n\n\n\n\nTerm\nBeta [95% CI]\n\n\n\n\nFemale (vs male)\n0.21 [0.03, 0.38]\n\n\nAge\n-0.06 [-0.15, 0.03]\n\n\nEntrance qualification (vs none)\n-0.10 [-0.31, 0.11]\n\n\nUniversity degree (vs no entrance qualification)\n-0.37 [-0.60, -0.15]\n\n\nHousehold income band\n-0.13 [-0.23, -0.04]\n\n\nEast (vs West)\n0.30 [0.09, 0.51]\n\n\nBerlin (vs West)\n0.31 [-0.05, 0.67]\n\n\nLeft-right self-placement (right = high)\n0.24 [0.15, 0.32]\n\n\n\n\n\nThe model describes associations in this sample. Education groups are provisional (decision log D26), and “another gender” is excluded from the model as too small to estimate."
+  },
+  {
+    "objectID": "conspiracy.html#change-over-time",
+    "href": "conspiracy.html#change-over-time",
+    "title": "Conspiracy beliefs",
+    "section": "8 Change over time",
+    "text": "8 Change over time\n\n\n\n\n\n\n\n\n\nWave means. Analytic N = 500. Self-rated attention subset: N = 480/493/487/487/488. The extract has no instructed-response attention flags, so this subset is a provisional robustness check (Q3).\n\n\n\nMean change from wave 1, random-intercept model (lme4). 500 respondents, 2500 observations.\n\n\nContrast\nChange [95% CI]\n\n\n\n\nwave 2 vs wave 1\n0.14 [0.06, 0.22]\n\n\nwave 3 vs wave 1\n-0.07 [-0.15, 0.01]\n\n\nwave 4 vs wave 1\n-0.05 [-0.13, 0.03]\n\n\nwave 5 vs wave 1\n0.02 [-0.06, 0.10]\n\n\n\n\n\n\n\n\nCheck of the change estimates with a Bayesian random-intercept model (brms, Stan; 4 chains; prior normal(0, 1) on each contrast).\n\n\n\n\n\n\n\n\n\nContrast\nlme4 [95% CI]\nbrms [95% CrI]\nR-hat\nBulk ESS\n\n\n\n\nwave 2 vs wave 1\n0.14 [0.06, 0.22]\n0.14 [0.06, 0.22]\n1.00\n3701\n\n\nwave 3 vs wave 1\n-0.07 [-0.15, 0.01]\n-0.07 [-0.15, 0.01]\n1.00\n3825\n\n\nwave 4 vs wave 1\n-0.05 [-0.13, 0.03]\n-0.05 [-0.13, 0.03]\n1.00\n3751\n\n\nwave 5 vs wave 1\n0.02 [-0.06, 0.10]\n0.02 [-0.06, 0.10]\n1.00\n3845\n\n\n\n\n\nThe two methods agree: the largest difference between estimates is &lt; 0.001 scale points, and the largest R-hat is 1.004.\n\n\n\nRank-order stability: Pearson correlation of scores between waves, adjacent and longer intervals.\n\n\nWaves\nLag\nN\nr [95% CI]\nBalanced panel r\n\n\n\n\n1 to 2\n1\n500\n0.83 [0.80, 0.85]\n0.83\n\n\n1 to 3\n2\n500\n0.81 [0.78, 0.84]\n0.81\n\n\n1 to 4\n3\n500\n0.79 [0.76, 0.82]\n0.79\n\n\n1 to 5\n4\n500\n0.80 [0.77, 0.83]\n0.80\n\n\n2 to 3\n1\n500\n0.83 [0.81, 0.86]\n0.83\n\n\n2 to 4\n2\n500\n0.82 [0.78, 0.84]\n0.82\n\n\n2 to 5\n3\n500\n0.82 [0.79, 0.85]\n0.82\n\n\n3 to 4\n1\n500\n0.84 [0.82, 0.87]\n0.84\n\n\n3 to 5\n2\n500\n0.86 [0.84, 0.88]\n0.86\n\n\n4 to 5\n1\n500\n0.86 [0.83, 0.88]\n0.86\n\n\n\n\n\n\n\n\nAvailable cases versus the balanced panel (respondents scored in all 5 waves).\n\n\nWave\nAvailable cases\nBalanced panel\n\n\n\n\n1\n4.00 (N = 500)\n4.00 (N = 500)\n\n\n2\n4.15 (N = 500)\n4.15 (N = 500)\n\n\n3\n3.93 (N = 500)\n3.93 (N = 500)\n\n\n4\n3.95 (N = 500)\n3.95 (N = 500)\n\n\n5\n4.03 (N = 500)\n4.03 (N = 500)\n\n\n\n\n\nEvery respondent was scored in every wave, so the two columns are identical in this extract; the comparison is kept so the report stays valid on data with attrition."
+  },
+  {
+    "objectID": "conspiracy.html#measurement-notes",
+    "href": "conspiracy.html#measurement-notes",
+    "title": "Conspiracy beliefs",
+    "section": "9 Measurement notes",
+    "text": "9 Measurement notes\n\nThe five items were asked in all five waves with the same wording and scale, so every wave comparison uses the same item set."
+  },
+  {
+    "objectID": "conspiracy.html#reproducing-this-report",
+    "href": "conspiracy.html#reproducing-this-report",
+    "title": "Conspiracy beliefs",
+    "section": "10 Reproducing this report",
+    "text": "10 Reproducing this report\nRebuild with Rscript run.R. Package versions are pinned in renv.lock, and every coding decision is in the decision log."
+  }
+]
